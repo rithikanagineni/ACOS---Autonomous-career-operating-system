@@ -262,28 +262,6 @@ Agent        Agent          Agent
 
 ---
 
-# 🚀 Getting Started
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
-## Run Development Server
-
-```bash
-npm run dev
-```
-
-Open:
-
-```
-http://localhost:5173
-```
-
----
-
 # 🎯 Future Enhancements
 
 Future versions of ACOS will include:
